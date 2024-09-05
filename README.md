@@ -1,3 +1,3 @@
 # QA_Portfolio
 Software QA Tester portfolio
-([About me])
+['About Me'](#About Me)
